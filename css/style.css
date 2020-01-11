@@ -1,0 +1,7 @@
+.form {
+    width: 450px;
+}
+
+input:disabled {
+    background: lightgray;
+}
